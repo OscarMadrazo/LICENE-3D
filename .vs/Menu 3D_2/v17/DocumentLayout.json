@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\assets\\scripts\\level2\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level2\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|c:\\users\\oscar\\downloads\\menu 3d (2)\\menu 3d_2\\assets\\scripts\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\billboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\assets\\scripts\\level2\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level2\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|c:\\users\\oscar\\downloads\\menu 3d (2)\\menu 3d_2\\assets\\starterassets\\thirdpersoncontroller\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|solutionrelative:assets\\starterassets\\thirdpersoncontroller\\scripts\\thirdpersoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\assets\\scripts\\level1\\multiperspectivecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1\\multiperspectivecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\assets\\scripts\\mainmenu\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\assets\\scripts\\level1y2\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1y2\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\assets\\scripts\\level1\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F829F60B-D96D-9028-47C9-F2BEBEAC89C3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Billboard.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\Billboard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Billboard.cs",
+              "ToolTip": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\Billboard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Billboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T05:30:22.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThirdPersonController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "ToolTip": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "RelativeToolTip": "Assets\\StarterAssets\\ThirdPersonController\\Scripts\\ThirdPersonController.cs",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAtwAEBAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T05:16:50.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiPerspectiveCamera.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\Level1\\MultiPerspectiveCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1\\MultiPerspectiveCamera.cs",
+              "ToolTip": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\Level1\\MultiPerspectiveCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1\\MultiPerspectiveCamera.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAowLEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T05:12:36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\Level2\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level2\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\Level2\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level2\\PlayerController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAowIUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:49:50.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\Level2\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level2\\CameraController.cs",
+              "ToolTip": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\Level2\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level2\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:48:51.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\Level1y2\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1y2\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\Level1y2\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1y2\\EnemyAI.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:47:59.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\Level1\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\Level1\\PauseMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1\\PauseMenu.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T06:46:44.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\MainMenu\\MenuController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu\\MenuController.cs",
+              "ToolTip": "C:\\Users\\oscar\\Downloads\\Menu 3D (2)\\Menu 3D_2\\Assets\\Scripts\\MainMenu\\MenuController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu\\MenuController.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAgwNUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T01:12:06.295Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

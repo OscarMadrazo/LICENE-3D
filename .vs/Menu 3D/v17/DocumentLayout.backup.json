@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68F49415-D981-53F1-3915-1233EDBE2DE7}|Assembly-CSharp.csproj|C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\assets\\scripts\\level2\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F49415-D981-53F1-3915-1233EDBE2DE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level2\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F49415-D981-53F1-3915-1233EDBE2DE7}|Assembly-CSharp.csproj|C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\assets\\scripts\\level2\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F49415-D981-53F1-3915-1233EDBE2DE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level2\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F49415-D981-53F1-3915-1233EDBE2DE7}|Assembly-CSharp.csproj|c:\\users\\oscar\\onedrive\\desktop\\menu 3d\\menu 3d\\assets\\xander develops\\ultimate ui toolkit\\textmodifier\\scripts\\textmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F49415-D981-53F1-3915-1233EDBE2DE7}|Assembly-CSharp.csproj|solutionrelative:assets\\xander develops\\ultimate ui toolkit\\textmodifier\\scripts\\textmodifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F49415-D981-53F1-3915-1233EDBE2DE7}|Assembly-CSharp.csproj|C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\assets\\animenaturalenvironment\\scripts\\rendertexturebaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F49415-D981-53F1-3915-1233EDBE2DE7}|Assembly-CSharp.csproj|solutionrelative:assets\\animenaturalenvironment\\scripts\\rendertexturebaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F49415-D981-53F1-3915-1233EDBE2DE7}|Assembly-CSharp.csproj|C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\assets\\scripts\\level1y2\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F49415-D981-53F1-3915-1233EDBE2DE7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\level1y2\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TextModifier.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\Assets\\Xander Develops\\Ultimate UI Toolkit\\TextModifier\\Scripts\\TextModifier.cs",
+              "RelativeDocumentMoniker": "Assets\\Xander Develops\\Ultimate UI Toolkit\\TextModifier\\Scripts\\TextModifier.cs",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\Assets\\Xander Develops\\Ultimate UI Toolkit\\TextModifier\\Scripts\\TextModifier.cs",
+              "RelativeToolTip": "Assets\\Xander Develops\\Ultimate UI Toolkit\\TextModifier\\Scripts\\TextModifier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:30:01.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RenderTextureBaker.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\Assets\\AnimeNaturalEnvironment\\Scripts\\RenderTextureBaker.cs",
+              "RelativeDocumentMoniker": "Assets\\AnimeNaturalEnvironment\\Scripts\\RenderTextureBaker.cs",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\Assets\\AnimeNaturalEnvironment\\Scripts\\RenderTextureBaker.cs",
+              "RelativeToolTip": "Assets\\AnimeNaturalEnvironment\\Scripts\\RenderTextureBaker.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwF8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:29:48.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyAI.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\Assets\\Scripts\\Level1y2\\EnemyAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level1y2\\EnemyAI.cs",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\Assets\\Scripts\\Level1y2\\EnemyAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level1y2\\EnemyAI.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:28:33.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\Assets\\Scripts\\Level2\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level2\\CameraController.cs",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\Assets\\Scripts\\Level2\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level2\\CameraController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T04:12:32.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\Assets\\Scripts\\Level2\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Level2\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\oscar\\OneDrive\\Desktop\\Menu 3D\\Menu 3D\\Assets\\Scripts\\Level2\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Level2\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T03:56:41.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
